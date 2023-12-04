@@ -1,0 +1,14 @@
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\bin\Debug\net6.0\hangman-console-game.exe
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\bin\Debug\net6.0\hangman-console-game.deps.json
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\bin\Debug\net6.0\hangman-console-game.runtimeconfig.json
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\bin\Debug\net6.0\hangman-console-game.dll
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\bin\Debug\net6.0\hangman-console-game.pdb
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\obj\Debug\net6.0\hangman-console-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\obj\Debug\net6.0\hangman-console-game.AssemblyInfoInputs.cache
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\obj\Debug\net6.0\hangman-console-game.AssemblyInfo.cs
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\obj\Debug\net6.0\hangman-console-game.csproj.CoreCompileInputs.cache
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\obj\Debug\net6.0\hangman-console-game.dll
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\obj\Debug\net6.0\refint\hangman-console-game.dll
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\obj\Debug\net6.0\hangman-console-game.pdb
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\obj\Debug\net6.0\hangman-console-game.genruntimeconfig.cache
+C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\obj\Debug\net6.0\ref\hangman-console-game.dll
