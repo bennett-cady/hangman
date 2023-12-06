@@ -44,6 +44,13 @@
                 if(misses>0) Console.WriteLine("Your previous guesses: " + history);
                 Console.WriteLine("Enter a guess: ");
                 string guess = Console.ReadLine();
+
+                while( history.Contains(guess) )
+                {
+                    Console.WriteLine("You already guesses "+ guess+"\nPlease enter a new letter: ");
+                    guess = Console.ReadLine();
+                }
+
                 if(guess.Length==1)
                 {
                     if(word.Contains(guess))
