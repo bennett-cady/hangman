@@ -1,4 +1,7 @@
-﻿namespace hangman_console_game
+﻿using System.Runtime.InteropServices;
+using System.Security.Cryptography.X509Certificates;
+
+namespace hangman_console_game
 {
 
     internal partial class Program
@@ -7,13 +10,13 @@
         /*
          * TO-DO
          * 
-         * Read from a file of potential words/phrases
-         * Randomly select word/phrase from this list
-         * Display number of guesses used/ total amount
-         * Display the hidden word, filled in with correct guesses
-         * Display a list of incorrect guesses
+         * Read from a file of potential words/phrases -DONE
+         * Randomly select word/phrase from this list -DONE
+         * Display number of guesses used/ total amount -DONE
+         * Display the hidden word, filled in with correct guesses -DONE
+         * Display a list of incorrect guesses -DONE
          * A function to validate input: ensure only characters, standardize casing
-         * Do not allow player to make the same guess more than once
+         * Do not allow player to make the same guess more than once -DONE
          */
 
         public static void PlayGame()
@@ -33,10 +36,9 @@
                 Console.WriteLine("Okay, maybe later...");
             }
 
-            string word = "try and guess me";
+            string word = ChooseWord.SelectWord();
             string hidden = StringOperations.HideWord(word);
             Console.WriteLine(hidden);
-            //Console.WriteLine(StringOperations.Replace(hidden, word, 'o'));  
 
             while(misses<7 && found==false)
             {
