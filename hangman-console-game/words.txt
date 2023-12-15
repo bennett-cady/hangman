@@ -1,7 +1,36 @@
-apple
-banana
-orange
-pear
-pineapple
-strawberry
-lemons
+lake superior
+gulf of mexico
+mississippi river
+pacific ocean
+mediterranean sea
+joshua tree national park
+gateway arch
+golden gate bridge
+empire state building
+cape canaveral
+mount rainier
+the godfather
+pulp fiction
+stand by me
+reservoir dogs
+the shining
+the shawshank redemption
+north by northwest
+the wizard of oz
+apocalypse now
+eiffel tower
+great pyramid of giza
+big ben clock tower
+leaning tower of piza
+sydney opera house
+great wall of china
+electromagnetic spectrum
+center of gravity
+entropy
+theory of relativity
+black hole
+apple pie
+neopolitan ice cream
+chicken noodle soup
+thanksgiving turkey
+macaroni and cheesea

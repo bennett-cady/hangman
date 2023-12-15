@@ -21,7 +21,6 @@ namespace hangman_console_game
         public static List<String> GetLines()
         {
             List<String> lines = new List<String>();
-            Console.WriteLine("In GetLines");
             using (System.IO.StreamReader file = new System.IO.StreamReader(@"C:\Users\bjcad\source\repos\hangman-console-game\hangman-console-game\words.txt"))
             {
                 var LineCount = GetLineCount();
